@@ -1,0 +1,8 @@
+{
+  "protocols": ["5.0"],
+  "os": "linux",
+  "arch": "amd64",
+  "filename": "terraform-provider-b2_0.0.2_linux_amd64.zip",
+  "download_url": "https://github.com/dnachev/terraform-provider-b2/releases/download/pv0.0.2/terraform-provider-b2_0.0.2_linux_amd64.zip",
+  "shasum": "82e8a39e5cf3a4f4ae53bb51f501cff6ce20a17acee59ac42beca1d94f1e9428"
+}
