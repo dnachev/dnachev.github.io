@@ -1,0 +1,21 @@
+{
+  "protocols": ["5.0"],
+  "os": "linux",
+  "arch": "amd64",
+  "filename": "terraform-provider-b2_0.0.3_linux_amd64.zip",
+  "download_url": "https://github.com/dnachev/terraform-provider-b2/releases/download/pv0.0.3/terraform-provider-b2_0.0.3_linux_amd64.zip",
+  "shasums_url": "https://dnachev.github.io/terraform/providers/private/b2/0.0.3/checksums",
+  "shasums_signature_url": "https://dnachev.github.io/terraform/providers/private/b2/0.0.3/checksums.sig",
+  "shasum": "60c463b0ee1df135176681b090d0eb20a06dfb2fd0d3a2df9df2a5bbdb5d7851",
+  "signing_keys": {
+    "gpg_public_keys": [
+      {
+        "key_id": "2945026ADA5BEDC7",
+        "ascii_armor": "-----BEGIN PGP PUBLIC KEY BLOCK-----\n\nmQGNBGIAnZYBDADbF41mPrc2vm7ezU0TrF4FUC1gFbdOWyBPbBsFgmLLwTY3JXNk\npPsS2780+vjFnpABZGOCp9OwW1JEak+IjN71W9FnazIoO643uA/PO3JVw2RJRluV\nnG2deN+G+dfYqCnJSqtrMp4w0wI6Daximdwj93pCvW+2dgm3X6lk5rwMiZQy9Nq3\n8XpJmvGbyMsF2z4TqgHFBqgj84+BQG+wdSpaJXdT5VRKSUXNsuSRBp6+V/2vClVM\nSsntABo7CvwHtPQM/tUmCGVA7uNvYJvyKpNh5uq4AdNa7fuzH1BrHjhmcPolIN/x\n2IPx57ZJE1rQgIOMvipnTcqwhQJoygNxLqGvTNAi9gTpNQpR3o0UULPSC0pCSjGm\n74NxR57TUQ/HCp+OakJA3JbOjZ7zO1nrOdmMkJssFY9zF3jb+vVSzg7Efvd5b8aa\nfX9T9+F1LUEKc4aBMYRy3TOGA6Blo8vAQKhRj4jDjPlFJ4m+bw/5f3BTtHal9HHb\nSyaEu0YGrxAu9FsAEQEAAbQfRGlkbyBOYWNoZXYgPGRuYWNoZXZAZ21haWwuY29t\nPokB1AQTAQoAPhYhBEpEziLJ2q/sL80hVylFAmraW+3HBQJiAJ2WAhsDBQkSzAMA\nBQsJCAcCBhUKCQgLAgQWAgMBAh4BAheAAAoJEClFAmraW+3H24YMANasGSo4syZ1\nfk5aJj37x42Vsoq1QAQO6wONIbY/rwZ4m/cRfIjxubqMdJM/pBnsH9kFCvbrb6a1\nM76fWi2hrdEA3m5OMhyyA1n7QK+9Rmm3i36aiZWs5HajH52nQUEiIMvYU/eGg1B/\niYHzd/zaPeW7o8kcFGV2Ap/XfbjjDnWVkrFlD6U5sE5Y3Lgk7yLSNM0/Fztqhuhb\nNtbOiPYo6uyZIyWnSNxVLs/FLPkg1Avnt3ZaZmutZO9dASVDRk9MMFQmzZZpcGBE\n9qD1hjcR1JiSHInjLUJAIyvsiLQ5UAKcJuTtWuqdQ1ok+BzXJ9AjkbWUSfX1Thiv\nshC3dFQpEQvAI6JZ2PN0dJOXc0fkeEdkJHthNaApEpVFQ+sZ7yEAdrncc3A5kAkR\nv+JuC6oRE8V5Fh0oTz8YYvHbCvWWyScwz2vtumfEUE+TiYjd1RsV3UAizLUaHxEa\nYAIHajKjZZkLV5lbVd0LiRCnkySdAXfpdpMEILg3GSSxIaRCRqpmiA==\n=qsnH\n-----END PGP PUBLIC KEY BLOCK-----\n",
+        "trust_signature": "",
+        "source": "Dido Nachev",
+        "source_url": "https://dnachev.github.io"
+      }
+    ]
+  }
+}

@@ -23,6 +23,18 @@
           "arch": "amd64"
         }
       ]
+    },
+    {
+      "version": "0.0.3",
+      "protocols": [
+        "5.0"
+      ],
+      "platforms": [
+        {
+          "os": "linux",
+          "arch": "amd64"
+        }
+      ]
     }
   ]
 }
